@@ -1,5 +1,6 @@
 ## Hi there! :wave: I'm *Abisaí*
 
+### 🔭 Skills
 - **Languages**  
 ![Java Badge](https://img.shields.io/badge/-Java-1C9AD6?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
@@ -21,7 +22,10 @@
 - **Tools**  
 ![Intellij-Idea Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-007acc?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=007acc)
 ![WebStorm Badge](https://img.shields.io/badge/-WebStorm-00D564?style=for-the-badge&labelColor=black&logo=WebStorm&logoColor=00D564)
-![Visual-Studio-Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=007ACC)
+![Visual-Studio-Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)
+![Markdown Badge](https://img.shields.io/badge/-Markdown-2596BE?style=for-the-badge&labelColor=black&logo=Markdown&logoColor=2596BE)
+![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=Figma&logoColor=F24E1E)
+
 ### :mailbox_with_mail: How to contact me? 
 - My Web Site (coming soon).
 - [LinkedIn](https://duckduckgo.com "encourage me to give me a chance" ).
